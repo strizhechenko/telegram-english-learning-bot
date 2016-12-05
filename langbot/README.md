@@ -20,4 +20,4 @@ Not connected to `translate.py` opt parser (how it should be).
 
 # converter.py
 
-Should take some things from translate.py, about conversion between markdown and json, reading these files to dict/list, etc.
+Should take some things from `translate.py`, about conversion between markdown and json, reading these files to dict/list, etc.
